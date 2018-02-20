@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OnlyRetrofitSampleProject</string>
+    <string name="network_message">Please check network connection!</string>
+</resources>

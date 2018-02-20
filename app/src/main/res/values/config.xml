@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //complete url for volley
+    <string name="image_download_api">http://api.androidhive.info/json/glide.json</string>
+
+    //base url for retrofit image download url
+    <string name="image_url_without_end_point">http://api.androidhive.info</string>
+
+    //base url for restaurant (http://demo5868089.mockable.io/4/gallery)
+    <string name="base_restaurant_end_point">http://demo5868089.mockable.io</string>
+
+
+    //base url for rakesh (https://demo2037621.mockable.io/profile)
+    <string name="base_url_rakesh_end_point">https://demo2037621.mockable.io</string>
+</resources>
